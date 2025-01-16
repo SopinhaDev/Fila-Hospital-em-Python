@@ -57,11 +57,12 @@ pacientes = [
     {"nome": "Carla", "idade": 59, "urgencia": "baixa"}
 ]
 
+```
+
 ## **Formato de Saída**
 
 A exibição inicial da fila de atendimento deve ser:
 
-```
 Ordem de Atendimento
 
 Alta urgência:
