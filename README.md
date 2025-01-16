@@ -1,4 +1,4 @@
-# **Sistema de Fila de Espera no Hospital com Priorização**
+# **Sistema de Fila de Espera em um Hospital com Priorização**
 
 Um hospital deseja organizar o atendimento de pacientes em uma **fila de espera** priorizando idosos e classificando os casos em **níveis de urgência**.
 
